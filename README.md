@@ -9,8 +9,6 @@ Learning Fronted Development by building creative landing pages using HTML, CSS,
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Shiven0nly&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://nirzak-streak-stats.vercel.app/?user=Shiven0nly&theme=neon&hide_border=false)<br/>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shiven0nly&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
