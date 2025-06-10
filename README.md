@@ -3,9 +3,6 @@
 Learning Fronted Development by building creative landing pages using HTML, CSS, and Javascript. Also experimenting with TailwindCSS and animations(like AOS etc) to make UI smooth.<br><br>Currently learning TailwindCSS, Javascript DOM, Basic animations using libraries like GSAP & AOS. Next Targets: Javascript deep dive, React & MongoDB<br>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/notshivenn) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/shiven0nly) 
-
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
