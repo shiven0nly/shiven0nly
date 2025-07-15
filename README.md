@@ -6,7 +6,7 @@ Learning Fronted Development by building creative landing pages using HTML, CSS,
 -**Next Targets: NEXT.JS**<br>
 
 ---
-- **Visit My Portfolio Site Live for Laptop**: (https://portfolio-v1-topaz-iota.vercel.app/)
+- **Visit My Portfolio Site Live for both Laptop & Mobile**: (https://portfolio-v1-topaz-iota.vercel.app/)
 ---
 
 # 💻 Tech Stack:
