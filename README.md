@@ -1,9 +1,7 @@
 
 # 💫 About Me:
 ## 👨‍💻Coding Journey started on "25/05/25"
-Learning Fronted Development by building creative landing pages using HTML, CSS, and Javascript. Also experimenting with TailwindCSS and animations(like AOS etc) to make UI smooth.<br><br>Currently learning React.Js + TailwindCss
-
--**Next Targets: NEXT.JS**<br>
+   **MERN STACK DEVELOPER**
 
 ---
 - **Visit My Portfolio Site Live for both Laptop & Mobile**: (https://portfolio-v1-topaz-iota.vercel.app/)
