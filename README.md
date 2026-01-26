@@ -4,7 +4,7 @@
    **FrontENd DEVELOPER**
 
 ---
-- **Visit My Portfolio Site Live for both Laptop & Mobile**: (https://portfolio-v2-vert-omega.vercel.app/)
+- **Visit My Portfolio Site Live for both Laptop & Mobile**: (shiven-portfolio.vercel.app)
 ---
 
 # 💻 Tech Stack:
