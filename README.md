@@ -1,7 +1,7 @@
 
 # 💫 About Me:
 ## 👨‍💻Coding Journey started on "25/05/25"
-   **MERN STACK DEVELOPER**
+   **FrontENd DEVELOPER**
 
 ---
 - **Visit My Portfolio Site Live for both Laptop & Mobile**: (https://portfolio-v1-topaz-iota.vercel.app/)
