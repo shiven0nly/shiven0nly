@@ -1,9 +1,13 @@
 # 💫 About Me
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif" />
+</p>
+
 ## 👨‍💻 Frontend Developer | UI-Focused Builder  
 📅 **Coding Journey Started:** *25 May 2025*
 
-I’m a self-driven **Frontend Developer** who loves building clean, responsive, and user-focused web experiences.  
+I’m a self-driven **Frontend Developer** who enjoys building clean, responsive, and user-focused web experiences.  
 I started my journey by shipping real projects early — learning by building, breaking, and refining.
 
 Currently exploring modern frontend stacks, design systems, and backend-as-a-service platforms to ship fast, scalable products.
@@ -40,10 +44,19 @@ Currently exploring modern frontend stacks, design systems, and backend-as-a-ser
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-![](https://github-readme-stats.vercel.app/api?username=shiven0nly&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+### 🔢 Total Contributions (Auto-fetched)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiven0nly&theme=dark&hide_border=false" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiven0nly&theme=github_dark" />
+</p>
+
+### 📈 Stats & Languages
+![](https://github-readme-stats.vercel.app/api?username=shiven0nly&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiven0nly&theme=dark&hide_border=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=shiven0nly&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -63,4 +76,4 @@ Currently exploring modern frontend stacks, design systems, and backend-as-a-ser
 > 💡 *Focused on frontend excellence, UI/UX polish, and shipping meaningful products.*  
 > 📬 Open to collaborations, internships, and hackathons.
 
-<!-- Clean, minimal, and intentional. -->
+<!-- Minimal. Intentional. Builder mindset. -->
