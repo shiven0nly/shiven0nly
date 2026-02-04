@@ -1,9 +1,5 @@
 # 💫 About Me
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif" />
-</p>
-
 ## 👨‍💻 Frontend Developer | UI-Focused Builder  
 📅 **Coding Journey Started:** *25 May 2025*
 
@@ -75,5 +71,9 @@ Currently exploring modern frontend stacks, design systems, and backend-as-a-ser
 
 > 💡 *Focused on frontend excellence, UI/UX polish, and shipping meaningful products.*  
 > 📬 Open to collaborations, internships, and hackathons.
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif" />
+</p>
 
 <!-- Minimal. Intentional. Builder mindset. -->
