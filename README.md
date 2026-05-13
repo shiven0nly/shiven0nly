@@ -18,6 +18,16 @@ Currently exploring modern frontend stacks, design systems, and backend-as-a-ser
 
 ---
 
+## Recent works 
+1. https://shuttersync-photography.netlify.app/
+2. https://playlister-sand.vercel.app/
+3. https://sree-dacca-jewellers.netlify.app/
+4. https://icecream-site.netlify.app/
+5. https://icecream-site.netlify.app/
+6. https://to-do-list-by-shiven.netlify.app/
+
+---
+
 # 💻 Tech Stack
 
 ### 🎨 Frontend
