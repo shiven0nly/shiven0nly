@@ -19,9 +19,9 @@ Currently exploring modern frontend stacks, design systems, and backend-as-a-ser
 ---
 
 ## Recent works 
-1. https://shuttersync-photography.netlify.app/
+1. https://shuttersync-photography.vercel.app/
 2. https://flowboard-taskmanagement.vercel.app/
-3. https://sree-dacca-jewellers.netlify.app/
+3. https://iit-discovery.vercel.app/
 4. https://chillthrive.vercel.app/
 5. https://icecream-site.netlify.app/
 6. https://to-do-list-by-shiven.netlify.app/
