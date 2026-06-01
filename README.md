@@ -6,13 +6,13 @@ I enjoy building products that sit at the intersection of web development, AI, a
 
 Most of what I learn comes from building real projects rather than following courses. Over the past year I've worked on full-stack applications, cloud deployments, AI-powered products, browser extensions, and developer workflow tools.
 
-[Portfolio](https://shiven-portfolio.vercel.app) * [LinkedIn](https://linkedin.com/in/shiven-sharma-2b0819358) * [Github](https://github.com/shiven0nly)
+[Portfolio](https://shiven-portfolio.vercel.app)  *  [LinkedIn](https://linkedin.com/in/shiven-sharma-2b0819358)  *  [Github](https://github.com/shiven0nly)
 
 Currently exploring:
 
 * Full Stack Development (MERN)
 * Cloud and DevOps fundamentals
-* AI and Agents & Agentic Systems
+* AI Agents and Agentic Systems
 * Open Source Contribution
 
 ---
@@ -25,7 +25,7 @@ Full-stack Kanban application deployed on Azure.
 
 Built with React, Node.js, MongoDB, GitHub Actions, PM2, Nginx, and Azure VM infrastructure.
 
-[Repository](https://github.com/shiven0nly/flowboard-calm_productivity) * [Live](https://flowboard-taskmanagement.vercel.app)
+[Repository](https://github.com/shiven0nly/flowboard-calm_productivity)  *  [Live](https://flowboard-taskmanagement.vercel.app)
 
 
 ### Skill-Sync
@@ -60,7 +60,7 @@ Photography community platform.
 
 Worked on product architecture, frontend implementation, and deployment while leading development efforts.
 
-[Repository](https://github.com/shiven0nly/shuttersync_final2) * [Live](https://shuttersync-photography.vercel.app)
+[Repository](https://github.com/shiven0nly/shuttersync_final2)  *  [Live](https://shuttersync-photography.vercel.app)
 
 ## Tech Stack
 
