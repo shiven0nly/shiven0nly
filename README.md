@@ -25,9 +25,7 @@ Full-stack Kanban application deployed on Azure.
 
 Built with React, Node.js, MongoDB, GitHub Actions, PM2, Nginx, and Azure VM infrastructure.
 
-[Repository](https://github.com/shiven0nly/flowboard-calm_productivity)
-
-[Live](https://flowboard-taskmanagement.vercel.app)
+[Repository](https://github.com/shiven0nly/flowboard-calm_productivity) * [Live](https://flowboard-taskmanagement.vercel.app)
 
 ---
 
@@ -65,9 +63,7 @@ Photography community platform.
 
 Worked on product architecture, frontend implementation, and deployment while leading development efforts.
 
-[Repository](https://github.com/shiven0nly/shuttersync_final2)
-
-[Live](https://shuttersync-photography.vercel.app)
+[Repository](https://github.com/shiven0nly/shuttersync_final2) * [Live](https://shuttersync-photography.vercel.app)
 
 ## Tech Stack
 
