@@ -12,7 +12,7 @@ Currently exploring:
 
 * Full Stack Development (MERN)
 * Cloud and DevOps fundamentals
-* AI Agents and Agentic Systems
+* Systems Design & Product Engineering 
 * Open Source Contribution
 
 ---
