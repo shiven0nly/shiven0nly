@@ -10,7 +10,7 @@ Currently exploring:
 
 * Full Stack Development (MERN)
 * Cloud & DevOps fundamentals
-* AI Agents Implications
+* AI & Agents & Agentic Systems
 * Open Source Contribution
 
 ## Featured Projects
@@ -116,7 +116,7 @@ Portfolio:
 https://shiven-portfolio.vercel.app
 
 LinkedIn:
-https://linkedin.com/in/YOUR-LINKEDIN
+https://linkedin.com/in/shiven-sharma-2b0819358
 
 GitHub:
 https://github.com/shiven0nly
