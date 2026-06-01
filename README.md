@@ -22,7 +22,7 @@ Full-stack Kanban application deployed on Azure.
 Built with React, Node.js, MongoDB, GitHub Actions, PM2, Nginx, and Azure VM infrastructure.
 
 Repository:
-https://github.com/shiven0nly
+https://github.com/shiven0nly/flowboard-calm_productivity
 
 Live:
 https://flowboard-taskmanagement.vercel.app
@@ -40,13 +40,22 @@ Features:
 * Amazon Bedrock integration
 * Adaptive explanations based on developer skill level
 
+Repository:
+https://github.com/shiven0nly/Skill_Sync-Ai-for-Bharat-Hackathon
+
 ---
 
 ### Vivo Health
 
 Top 10 Finalist - Google TechSprint Winter Hacks.
+* Google Gemini API
+* Multi-Language Support
+* Scan and Upload support (using firebase)
 
 An AI-powered multilingual health intelligence platform that helps users understand medical reports through simplified explanations and conversational AI.
+
+Repository:
+https://github.com/shiven0nly/vivo_health2
 
 ---
 
@@ -55,6 +64,9 @@ An AI-powered multilingual health intelligence platform that helps users underst
 Photography community platform.
 
 Worked on product architecture, frontend implementation, and deployment while leading development efforts.
+
+Repository:
+https://github.com/shiven0nly/shuttersync_final2
 
 Live:
 https://shuttersync-photography.vercel.app
