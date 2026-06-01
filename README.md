@@ -11,8 +11,8 @@ Most of what I learn comes from building real projects rather than following cou
 Currently exploring:
 
 * Full Stack Development (MERN)
-* Cloud & DevOps fundamentals
-* AI & Agents & Agentic Systems
+* Cloud and DevOps fundamentals
+* AI and Agents & Agentic Systems
 * Open Source Contribution
 
 ---
@@ -27,7 +27,6 @@ Built with React, Node.js, MongoDB, GitHub Actions, PM2, Nginx, and Azure VM inf
 
 [Repository](https://github.com/shiven0nly/flowboard-calm_productivity) * [Live](https://flowboard-taskmanagement.vercel.app)
 
----
 
 ### Skill-Sync
 
@@ -42,20 +41,18 @@ Features:
 
 [Repository](https://github.com/shiven0nly/Skill_Sync-Ai-for-Bharat-Hackathon)
 
----
 
 ### Vivo Health
 
 Top 10 Finalist - Google TechSprint Winter Hacks.
 * Google Gemini API
 * Multi-Language Support
-* Scan and Upload support (using firebase)
+* PDF Upload and Analysis using Firebase Storage
 
 An AI-powered multilingual health intelligence platform that helps users understand medical reports through simplified explanations and conversational AI.
 
 [Repository](https://github.com/shiven0nly/vivo_health2)
 
----
 
 ### ShutterSync
 
@@ -78,13 +75,11 @@ Worked on product architecture, frontend implementation, and deployment while le
 **Tools:** Git, GitHub, Linux, VS Code
 
 ---
-## Highlights
+## Achievements
 
 * Top 10 Finalist - Google TechSprint Winter Hacks
-* Participant - AI for Bharat Hackathon
+* Selected for Round 2 - AI for Bharat Hackathon
 * Contributor - GSSoC 2026
-
-## Links
 
 ---
 ![shiven0nly's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiven0nly&theme=tokyonight&hide_border=true)
