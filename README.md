@@ -1,89 +1,110 @@
-# 💫 About Me
+# Shiven
 
-## 👨‍💻 Frontend Developer | UI-Focused Builder  
-📅 **Coding Journey Started:** *25 May 2025*
+B.Tech ECE @ SVNIT Surat
 
-I’m a self-driven **Frontend Developer** who enjoys building clean, responsive, and user-focused web experiences.  
-I started my journey by shipping real projects early — learning by building, breaking, and refining.
+I enjoy building products that sit at the intersection of web development, AI, and developer tooling.
 
-Currently exploring modern frontend stacks, design systems, and backend-as-a-service platforms to ship fast, scalable products.
+Most of what I learn comes from building real projects rather than following courses. Over the past year I've worked on full-stack applications, cloud deployments, AI-powered products, browser extensions, and developer workflow tools.
 
-> I don’t just learn tech — I **apply it**.
+Currently exploring:
 
----
+* Full Stack Development (MERN)
+* Cloud & DevOps fundamentals
+* AI Agents and RAG systems
+* Open Source Contribution
 
-### 🌐 Live Portfolio  
-🚀 **Optimized for both Desktop & Mobile**  
-👉 **https://shiven-portfolio.vercel.app**
+## Featured Projects
 
----
+### FlowBoard
 
-## Recent works 
-1. https://shuttersync-photography.vercel.app/
-2. https://flowboard-taskmanagement.vercel.app/
-3. https://iit-discovery.vercel.app/
-4. https://chillthrive.vercel.app/
-5. https://icecream-site.netlify.app/
-6. https://to-do-list-by-shiven.netlify.app/
+Full-stack Kanban application deployed on Azure.
 
----
+Built with React, Node.js, MongoDB, GitHub Actions, PM2, Nginx, and Azure VM infrastructure.
 
-# 💻 Tech Stack
+Repository:
+https://github.com/shiven0nly
 
-### 🎨 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-
-### ⚙️ Backend / BaaS
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-
-### 🛠 Tools & Workflow
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![PNPM](https://img.shields.io/badge/PNPM-%234a4a4a.svg?style=flat&logo=pnpm&logoColor=f69220)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=flat&logo=vercel&logoColor=white)
+Live:
+https://flowboard-taskmanagement.vercel.app
 
 ---
 
-# 📊 GitHub Analytics
+### Skill-Sync
 
-### 🔢 Total Contributions (Auto-fetched)
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shiven0nly&theme=dark&hide_border=false" />
-</p>
+AI-powered code intelligence platform developed for AI for Bharat.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shiven0nly&theme=github_dark" />
-</p>
+Features:
 
-### 📈 Stats & Languages
-![](https://github-readme-stats.vercel.app/api?username=shiven0nly&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shiven0nly&theme=dark&hide_border=false&layout=compact)
-
-[![](https://visitcount.itsvg.in/api?id=shiven0nly&icon=0&color=0)](https://visitcount.itsvg.in)
+* Agentic AI workflows
+* RAG architecture
+* Amazon Bedrock integration
+* Adaptive explanations based on developer skill level
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Vivo Health
+
+Top 10 Finalist - Google TechSprint Winter Hacks.
+
+An AI-powered multilingual health intelligence platform that helps users understand medical reports through simplified explanations and conversational AI.
 
 ---
 
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=shiven0nly&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ShutterSync
 
----
+Photography community platform.
 
-> 💡 *Focused on frontend excellence, UI/UX polish, and shipping meaningful products.*  
-> 📬 Open to collaborations, internships, and hackathons.
+Worked on product architecture, frontend implementation, and deployment while leading development efforts.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="coding gif" />
-</p>
+Live:
+https://shuttersync-photography.vercel.app
 
-<!-- Minimal. Intentional. Builder mindset. -->
+## Tech Stack
+
+Frontend
+
+* React
+* Next.js
+* JavaScript
+* Tailwind CSS
+* GSAP
+
+Backend
+
+* Node.js
+* Express.js
+* MongoDB
+
+Cloud & DevOps
+
+* Docker
+* Azure
+* GitHub Actions
+* Nginx
+* PM2
+
+Tools
+
+* Git
+* GitHub
+* Linux
+* VS Code
+
+## A Few Things About Me
+
+* Started coding in May 2025
+* First-year ECE student at SVNIT Surat
+* Interested in building products from idea to deployment
+* Enjoy UI design as much as backend logic
+* Learning in public through projects, hackathons, and open source
+
+## Links
+
+Portfolio:
+https://shiven-portfolio.vercel.app
+
+LinkedIn:
+https://linkedin.com/in/YOUR-LINKEDIN
+
+GitHub:
+https://github.com/shiven0nly
