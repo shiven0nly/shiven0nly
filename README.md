@@ -12,6 +12,19 @@ Currently exploring:
 * Cloud & DevOps fundamentals
 * AI & Agents & Agentic Systems
 * Open Source Contribution
+---
+## Links
+
+Portfolio:
+https://shiven-portfolio.vercel.app
+
+LinkedIn:
+https://linkedin.com/in/shiven-sharma-2b0819358
+
+GitHub:
+https://github.com/shiven0nly
+
+---
 
 ## Featured Projects
 
@@ -85,21 +98,9 @@ Tools: Git, GitHub, Linux, VS Code
 
 ## A Few Things About Me
 
-* First-year ECE student at SVNIT Surat
-* Interested in building products from idea to deployment
-* Enjoy UI design as much as backend logic
-* Building projects, participating in hackathons, and contributing to open source
-
-## Links
-
-Portfolio:
-https://shiven-portfolio.vercel.app
-
-LinkedIn:
-https://linkedin.com/in/shiven-sharma-2b0819358
-
-GitHub:
-https://github.com/shiven0nly
+* Learning Docker and cloud deployment
+* Exploring AI agents and RAG systems
+* Contributing through GSSoC 2026
 
 ---
 ![shiven0nly's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiven0nly&theme=tokyonight&hide_border=true)
