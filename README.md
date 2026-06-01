@@ -73,42 +73,22 @@ https://shuttersync-photography.vercel.app
 
 ## Tech Stack
 
-Frontend
+Frontend: React, Next.js, JavaScript, Tailwind CSS, GSAP
 
-* React
-* Next.js
-* JavaScript
-* Tailwind CSS
-* GSAP
+Backend: Node.js, Express.js, MongoDB
 
-Backend
+Databases: Firebase, Supabase, Prisma ORM
 
-* Node.js
-* Express.js
-* MongoDB
+Cloud & DevOps: Docker, Azure, GitHub Actions, Nginx, PM2
 
-Cloud & DevOps
-
-* Docker
-* Azure
-* GitHub Actions
-* Nginx
-* PM2
-
-Tools
-
-* Git
-* GitHub
-* Linux
-* VS Code
+Tools: Git, GitHub, Linux, VS Code
 
 ## A Few Things About Me
 
-* Started coding in May 2025
 * First-year ECE student at SVNIT Surat
 * Interested in building products from idea to deployment
 * Enjoy UI design as much as backend logic
-* Learning in public through projects, hackathons, and open source
+* Building projects, participating in hackathons, and contributing to open source
 
 ## Links
 
@@ -120,3 +100,6 @@ https://linkedin.com/in/shiven-sharma-2b0819358
 
 GitHub:
 https://github.com/shiven0nly
+
+---
+![shiven0nly's Streak](https://github-readme-streak-stats.herokuapp.com/?user=shiven0nly&theme=tokyonight&hide_border=true)
