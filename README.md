@@ -10,7 +10,7 @@ Currently exploring:
 
 * Full Stack Development (MERN)
 * Cloud & DevOps fundamentals
-* AI Agents and RAG systems
+* AI Agents Implications
 * Open Source Contribution
 
 ## Featured Projects
