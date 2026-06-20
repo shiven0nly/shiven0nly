@@ -13,7 +13,7 @@ Currently exploring:
 * Full Stack Development (MERN)
 * Cloud and DevOps fundamentals
 * Systems Design & Product Engineering 
-* Open Source Contribution
+* Open Source Contribution (GSSoC) 
 
 ---
 
