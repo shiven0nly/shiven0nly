@@ -23,23 +23,9 @@ Currently exploring:
 
 Full-stack Kanban application deployed on Azure.
 
-Built with React, Node.js, MongoDB, GitHub Actions, PM2, Nginx, and Azure VM infrastructure.
+Built with React, Node.js, MongoDB, GitHub Actions, and Azure VM infrastructure.
 
 [Repository](https://github.com/shiven0nly/flowboard-calm_productivity)  *  [Live](https://flowboard-taskmanagement.vercel.app)
-
-
-### Skill-Sync
-
-AI-powered code intelligence platform developed for AI for Bharat.
-
-Features:
-
-* Agentic AI workflows
-* RAG architecture
-* Amazon Bedrock integration
-* Adaptive explanations based on developer skill level
-
-[Repository](https://github.com/shiven0nly/Skill_Sync-Ai-for-Bharat-Hackathon)
 
 
 ### Vivo Health
@@ -68,9 +54,7 @@ Worked on product architecture, frontend implementation, and deployment while le
 
 **Backend:** Node.js, Express.js, MongoDB
 
-**Databases:** Firebase, Supabase, Prisma ORM
-
-**Cloud & DevOps:** Docker, Azure, GitHub Actions, Nginx, PM2
+**Databases:** Firebase, Supabase, Convex
 
 **Tools:** Git, GitHub, Linux, VS Code
 
